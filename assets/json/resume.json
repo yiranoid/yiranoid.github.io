@@ -58,15 +58,5 @@
       "fluency": "A2",
       "icon": ""
     }
-  ],
-  "interests": [
-    {
-      "name": "Mathematics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Moduli Spaces of Sheaves",
-        "Enumerative Geometry"
-      ]
-    }
   ]
 }
