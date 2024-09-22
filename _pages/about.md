@@ -18,4 +18,4 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-Hi! I am a forth-year graduate student at <a href='https://scms.fudan.edu.cn'>Shanghai Center for Mathematics</a>, Fudan University. My supervisor is Professor Jun Li.
+Hi! I am a fourth-year graduate student at <a href='https://scms.fudan.edu.cn'>Shanghai Center for Mathematics</a>, Fudan University. My supervisor is Professor Jun Li.
