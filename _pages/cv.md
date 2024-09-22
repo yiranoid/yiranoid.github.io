@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: 
+description: A pdf will be uploaded later.
 toc:
   sidebar: left
 ---
