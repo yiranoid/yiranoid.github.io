@@ -23,23 +23,23 @@
     ]
   },
   "education": [
-    {
+     {
       "institution": "Shanghai Center for Mathematical Sciences, Fudan University",
-      "location": "Shanghai, China",
-      "url": "https://math.fudan.edu.cn",
-      "area": "Mathematics and Applied Mathematics",
-      "studyType": "Bachelor of Science",
-      "startDate": "2017-09",
-      "endDate": "2021-07"
-    },
-    {
-      "institution": "School of Mathematical Sciences, Fudan University",
       "location": "Shanghai, China",
       "url": "https://scms.fudan.edu.cn",
       "area": "Mathematics",
       "studyType": "PhD Candidate",
       "startDate": "2021-09",
       "endDate": "present"
+    },
+    {
+      "institution": "School of Mathematical Sciences, Fudan University",
+      "location": "Shanghai, China",
+      "url": "https://math.fudan.edu.cn",
+      "area": "Mathematics and Applied Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017-09",
+      "endDate": "2021-07"
     }
   ],
   "languages": [
