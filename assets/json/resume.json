@@ -24,13 +24,22 @@
   },
   "education": [
     {
-      "institution": "School of Mathematical Sciences, Fudan University",
+      "institution": "Shanghai Center for Mathematical Sciences, Fudan University",
       "location": "Shanghai, China",
       "url": "https://math.fudan.edu.cn",
       "area": "Mathematics and Applied Mathematics",
       "studyType": "Bachelor of Science",
       "startDate": "2017-09",
       "endDate": "2021-07"
+    },
+    {
+      "institution": "School of Mathematical Sciences, Fudan University",
+      "location": "Shanghai, China",
+      "url": "https://scms.fudan.edu.cn",
+      "area": "Mathematics",
+      "studyType": "PhD Candidate",
+      "startDate": "2021-09",
+      "endDate": "present"
     }
   ],
   "languages": [
@@ -55,12 +64,8 @@
       "name": "Mathematics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Moduli Spaces of Sheaves",
+        "Enumerative Geometry"
       ]
     }
   ]
