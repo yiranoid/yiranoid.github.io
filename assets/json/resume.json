@@ -30,7 +30,7 @@
       "area": "Mathematics",
       "studyType": "Doctor of Philosophy",
       "startDate": "2021.09",
-      "endDate": "2026.06 (expected)"
+      "endDate": "present"
     },
     {
       "institution": "School of Mathematical Sciences, Fudan University",
@@ -45,7 +45,8 @@
   "awards": [
     {
       "title": "Fudan Elite PhD Program Scholarship",
-      "date": "2020-2026",
+      "startDate": "2020",
+      "endDate": "2026",
       "awarder": "Fudan University",
       "url": "",
       "summary": ""
