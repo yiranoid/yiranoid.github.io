@@ -28,7 +28,7 @@
       "location": "Shanghai, China",
       "url": "https://scms.fudan.edu.cn",
       "area": "Mathematics",
-      "studyType": "PhD Candidate",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2021-09",
       "endDate": "present"
     },
@@ -40,6 +40,15 @@
       "studyType": "Bachelor of Science",
       "startDate": "2017-09",
       "endDate": "2021-07"
+    }
+  ],
+  "awards": [
+    {
+      "title": "China National Scholarship",
+      "date": "2019-12",
+      "awarder": "Ministry of Education of the People's Republic of China",
+      "url": "",
+      "summary": ""
     }
   ],
   "languages": [
