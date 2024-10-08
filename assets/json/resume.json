@@ -8,10 +8,10 @@
     "url": "https://feinuozhang.github.io",
     "summary": "",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
+      "address": "2005 Songhu Road, Shanghai, China",
+      "postalCode": "200438",
+      "city": "Shanghai",
+      "countryCode": "86",
       "region": ""
     },
     "profiles": [
@@ -45,7 +45,7 @@
   "awards": [
     {
       "title": "Fudan Elite PhD Program Scholarship",
-      "date": "2020.12",
+      "date": "",
       "awarder": "Fudan University",
       "url": "",
       "summary": "2020-2026"
